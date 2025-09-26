@@ -7,7 +7,7 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Your Name Here",
+  "author": "Your Actual Name",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.5.0"
